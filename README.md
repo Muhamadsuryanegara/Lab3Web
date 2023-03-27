@@ -326,7 +326,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 - Jika berhasil, maka data baru sukses ditambahkan.
 
-![Proses-Tambah](img/proses-tambah.png)
+![proses-tambah](https://user-images.githubusercontent.com/92678339/227963677-b3d33c3e-2c78-4d4c-a202-64adf4bd87bf.png)
 
 ## Mengubah Data (Update)
 
